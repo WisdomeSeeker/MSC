@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo background -->
+  <rect width="40" height="40" rx="8" fill="#8CC63E"/>
+  
+  <!-- "E" letter stylized -->
+  <path d="M12 10H28V14H16V18H26V22H16V26H28V30H12V10Z" fill="white"/>
+  
+  <!-- Company name -->
+  <text x="48" y="26" font-family="Inter, sans-serif" font-size="20" font-weight="600" fill="#333333">
+    TRUSTED ENERGY
+  </text>
+</svg>
